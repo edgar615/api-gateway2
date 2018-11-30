@@ -1,0 +1,15 @@
+= Cheatsheets
+
+[[ApiDiscoveryOptions]]
+== ApiDiscoveryOptions
+
+
+[cols=">25%,^25%,50%"]
+[frame="topbot"]
+|===
+^|Name | Type ^| Description
+|[[name]]`name`|`String`|-
+|[[publishedAddress]]`publishedAddress`|`String`|-
+|[[unpublishedAddress]]`unpublishedAddress`|`String`|-
+|===
+
